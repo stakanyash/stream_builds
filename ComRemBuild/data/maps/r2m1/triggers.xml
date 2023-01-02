@@ -1243,4 +1243,18 @@
 			trigger:Deactivate()
 		</script>
 	</trigger>
+
+	<trigger Name="trTotalGameCount" active="0">
+		<event	timeout="0.01"		eventid="GE_TIME_PERIOD" />
+		<script>
+
+			if CountPlayerProgress()==32 then
+				SpawnMessageBox( "888" )
+			end
+
+			ShowDeathMenu()
+
+			trigger:Deactivate()
+		</script>
+	</trigger>
 </triggers>
