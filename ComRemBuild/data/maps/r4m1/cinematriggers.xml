@@ -358,19 +358,19 @@
 
 			AddCinematicMessage( 12, 0.5 )
 			AddCinematicMessage( 13, 0.5 )
-			if QuestStatus("d_SinFather_Quest")==Q_COMPLETED then
-				local oldLisa = getObj("CARLISA_R4M1_vehicle_0")
-				if oldLisa then oldLisa:Remove() end
+--			if QuestStatus("d_SinFather_Quest")==Q_COMPLETED then
+			local oldLisa = getObj("CARLISA_R4M1_vehicle_0")
+			if oldLisa then oldLisa:Remove() end
 
-				local vehLisa = CreateVehicleEx("LisaCar", "LisaBuharers", CVector(1363.683, 220.556, 3105.291), 1042)
-				if vehLisa then
-					vehLisa:SetSkin(2)
-					vehLisa:SetRotation(Quaternion(-0.000, 0.379, -0.000, 0.925))
-				end
-
-				AddHistory( "r4_LisaBecameCrazy" )
-				AddCinematicMessage( 14, 0.5 )
+			local vehLisa = CreateVehicleEx("LisaCar", "LisaBuharers", CVector(1363.683, 220.556, 3105.291), 1042)
+			if vehLisa then
+				vehLisa:SetSkin(2)
+				vehLisa:SetRotation(Quaternion(-0.000, 0.379, -0.000, 0.925))
 			end
+
+			AddHistory( "r4_LisaBecameCrazy" )
+			AddCinematicMessage( 14, 0.5 )
+--			end
 
 			AddCinematicMessage( 15, 0.5 )
 			trigger:Deactivate()
@@ -649,11 +649,11 @@
 			EnableGodMode()
 			SaveAllToleranceStatus(RS_NEUTRAL)
 
-			if QuestStatus("d_SinFather_Quest")==Q_COMPLETED then
+			--if QuestStatus("d_SinFather_Quest")==Q_COMPLETED then
 				Fly("FirstPriezd", CINEMATIC_NO_AIM, nil, 23, 1,1)
-			else
-				Fly("FirstPriezd", CINEMATIC_NO_AIM, nil, 16, 1,1)
-			end
+			--else
+			--	Fly("FirstPriezd", CINEMATIC_NO_AIM, nil, 16, 1,1)
+			--end
 			StartCinematic()
 			UpdateCinematic( 1 )
 			TActivate("cinPriezd_FadeIn")
@@ -669,16 +669,16 @@
 			GetPlayerVehicle():SetGamePositionOnGround(CVector(3129.591, 273.090, 7477.917))
 			GetPlayerVehicle():SetRotation(Quaternion(0.032, 0.925, -0.002, 0.378))
 			GetPlayerVehicle():SetExternalPathByName("PriezdToR4M1")
-			if QuestStatus("d_SinFather_Quest")==Q_COMPLETED then
+			--if QuestStatus("d_SinFather_Quest")==Q_COMPLETED then
 				GetPlayerVehicle():LimitMaxSpeed(5.2)
 				AddCinematicMessage( 1, 0.25 )
 				AddCinematicMessage( 18, 0.25 )
 				AddCinematicMessage( 19, 0.25 )
-			else
-				GetPlayerVehicle():LimitMaxSpeed(7)
-				AddCinematicMessage( 1, 0.25 )
-				AddCinematicMessage( 2, 0.25 )
-			end
+			--else
+			--	GetPlayerVehicle():LimitMaxSpeed(7)
+			--	AddCinematicMessage( 1, 0.25 )
+			--	AddCinematicMessage( 2, 0.25 )
+			--end
 			
 			trigger:Deactivate()
 		</script>
@@ -699,7 +699,7 @@
 
 			SetCameraBehindPlayerVehicle()
 
-			if QuestStatus("d_SinFather_Quest")==Q_COMPLETED then
+			--if QuestStatus("d_SinFather_Quest")==Q_COMPLETED then
 				local oldLisa = getObj("CARLISA_vehicle_0")
 				if oldLisa then oldLisa:Remove() end
 
@@ -717,9 +717,9 @@
 				else
 					LOG("ERROR! EnemyLisa does not exists!")
 				end
-			else
-				TakeQuest("r4m1_FindNative")
-			end
+			--else
+			--	TakeQuest("r4m1_FindNative")
+			--end
 
 			trigger:Deactivate()
 		</script>
