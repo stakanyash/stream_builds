@@ -5215,7 +5215,7 @@
 		name="PeshtGuardian_hellodlg0_3"
 		text="Нет. Сейчас город закрыт. Мы переходим в глухую оборону. Пока не решится проблема с бандитами, город находится на военном положении."
 		role="NPC"
-		nextReplies="PeshtGuardian_hellodlg0_P1_3" />
+		nextReplies="Dlg_pl_dd2148" />
 
 	<Reply
 		name="PeshtGuardian_hellodlg0_P1"
@@ -5234,19 +5234,6 @@
 		text="Так пропустите меня?"
 		role="PLAYER"
 		nextReplies="PeshtGuardian_hellodlg0_3" />
-
-	<Reply
-		name="PeshtGuardian_hellodlg0_P1_3"
-		text="Что же делать?"
-		role="PLAYER"
-		scriptResult="TakeQuest( 'd_RideAcrossBase_Quest' ); EndConversation()" />
-
-	<Reply
-		name="PeshtGuardian_hellodlg1"
-		text="Не видишь?! Проезд закрыт!"
-		role="NPC"
-		scriptCondition="IsQuestTaken( 'd_GiveMoneyToBase_Quest' )  and  not(IsQuestComplete( 'd_GiveMoneyToBase_Quest' ))  and  not(IsQuestComplete( 'd_GetBomb_Quest' ))  and  not(IsQuestTaken( 'd_GetBomb_Quest' ))"
-		nextReplies="Dlg_pl_dd2148" />
 
 	<Reply
 		name="PeshtGuardian_hellodlg2"
@@ -6164,7 +6151,7 @@
 		name="Dlg_pl_dd2154"
 		text="[Про себя] А у самих-то что, ноги отсохли? Трусы…"
 		role="PLAYER"
-		scriptResult="TakeQuest( 'd_GetBomb_Quest' ); EndConversation()" />
+		scriptResult="TakeQuest( 'd_GetBomb_Quest' ); TakeQuest( 'd_RideAcrossBase_Quest' ); EndConversation()" />
 
 	<Reply
 		name="Dlg_pl_dd2156"
