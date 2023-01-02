@@ -1,0 +1,29 @@
+# unique service name
+name: ComRemBuild
+
+# required human readable info
+display_name: Build for Community Remaster
+version: "1.0"
+build: "230102"
+description: |
+  Моя персональная сборка для Community Remaster, которую я использую на своих стримах.
+authors: pavlikrpg
+
+# optional human readable info
+release_date: TBA
+language: ru
+link: https://github.com/zatinu322/stream_builds
+
+# installation confguration
+prerequisites: 
+  - name: community_remaster
+    versions:
+      - "1.13"
+    optional_content: []
+patcher_version_requirement: "1.13"
+no_base_content: false
+optional_content:
+  - name: Winter
+    display_name: Зимний антураж
+    description: |
+      Зимние текстуры растительности, окружения и ландшафта. Снегопад вместо дождя.
