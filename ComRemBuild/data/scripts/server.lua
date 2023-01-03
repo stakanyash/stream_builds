@@ -1345,6 +1345,7 @@ function CountPlayerProgress()
 	-- secondary quests
 	local quests = {
 		"d_PunishBandits_Quest", 
+		"WorkGiver_Quest1",
 		"ReturnToDirector2_Quest", 
 		"Signs_Quest", 
 		"r1m3_BonnyAndKlideQuest", 
@@ -1400,7 +1401,7 @@ function CountPlayerProgress()
 			println("Book "..books[book].." is not collected.")
 		end
 	end
-	local percentage = progress/32*100
+	local percentage = string.format( "%.0f", progress/33*100)
 	println(percentage.."%")
 
 	return progress

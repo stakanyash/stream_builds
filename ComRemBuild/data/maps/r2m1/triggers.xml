@@ -1248,7 +1248,7 @@
 		<event	timeout="0.01"		eventid="GE_TIME_PERIOD" />
 		<script>
 
-			if CountPlayerProgress()==32 then
+			if CountPlayerProgress()==33 then
 				SpawnMessageBox( "888" )
 			end
 
