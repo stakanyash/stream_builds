@@ -22,8 +22,4 @@ prerequisites:
     optional_content: []
 patcher_version_requirement: "1.13"
 no_base_content: false
-optional_content:
-  - name: Winter
-    display_name: Зимний антураж
-    description: |
-      Зимние текстуры растительности, окружения и ландшафта. Снегопад вместо дождя.
+optional_content: []
