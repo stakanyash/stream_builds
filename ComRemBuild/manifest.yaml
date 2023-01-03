@@ -4,13 +4,13 @@ name: ComRemBuild
 # required human readable info
 display_name: Build for Community Remaster
 version: "1.0"
-build: "230102"
+build: "230103"
 description: |
   Моя персональная сборка для Community Remaster, которую я использую на своих стримах.
 authors: pavlikrpg
 
 # optional human readable info
-release_date: TBA
+release_date: 03/01/2023
 language: ru
 link: https://github.com/zatinu322/stream_builds
 
