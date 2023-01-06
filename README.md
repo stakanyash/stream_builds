@@ -27,7 +27,7 @@
 
 ***
 
-### **Скачать:** https://github.com/zatinu322/stream_builds/releases/tag/cr-v1.0
+### **Скачать:** https://github.com/zatinu322/stream_builds/releases/tag/v1.0-cr
 
 ***
 
