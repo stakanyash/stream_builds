@@ -253,6 +253,7 @@
 
 		<Item id="PS_VEN_EXP1_SMALL_SMOKE" 			file="data\Effects\venexps\ven_exp1_small_smoke.psys"/>
 		<Item id="PS_VEN_EXP1_SMALL_SMOKE_1" 		file="data\Effects\venexps\ven_exp1_small_smoke1.psys"/>
+		<Item id="PS_VEN_EXP1_SMALL_SMOKE_1_LISA" 		file="data\Effects\venexps\ven_exp1_small_smoke1_lisa.psys"/>
 		<Item id="PS_VEN_EXP1_SMALL_DUST" 			file="data\Effects\venexps\ven_exp1_small_dust.psys"/>
 
 		<Item id="PS_VEN_EXP1_SMALL1_SMOKE" 		file="data\Effects\venexps\ven_exp1_small1_smoke.psys"/>
