@@ -1,6 +1,4 @@
-# Сборки для стримов
-
-## На базе [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases/)
+# Сборка [Ex Machina Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/) от pavlikrpg
 
 ### **Список изменений:**
 + Добавлена сложность Профессионал+.
@@ -17,7 +15,7 @@
 + Улучшены текстуры Лисы.
 + Изменён логотип игрока на логотип канала [Павлик RPG](https://www.youtube.com/channel/UCn4cTYbkGki7getrE5sZabw).
 + Добавлена иконка монастыря из мода `EM-Monastery Icons Mod` от `PlayBoy`
-+ В диалоге с NPC деньги игрока теперь отображаются фиолетовым цветом.
++ В диалогах с NPC деньги игрока теперь отображаются фиолетовым цветом.
 + Изменены некоторые игровые названия.
 + Убрано предложение включить обучение при старте новой игры.
 + Убрана бессмысленная поездка от Пешта к мосту Бригады и обратно.

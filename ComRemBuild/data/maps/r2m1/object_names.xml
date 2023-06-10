@@ -22,7 +22,7 @@
 
 	<Object
 		Name="TheGelvetcia_Bar_Barman"
-		FullName="Секретарша Блэр" />
+		FullName="Секретарка Блэт" />
 
 	<Object
 		Name="Senat"
@@ -94,7 +94,7 @@
 
 	<Object
 		Name="TuzVerb"
-		FullName="Вербовщик Хэнк" />
+		FullName="Вербровщик Хэнк" />
 
 	<Object
 		Name="TheDoubtful"

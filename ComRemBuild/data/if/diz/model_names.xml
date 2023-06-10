@@ -303,7 +303,7 @@
 	<Item
 		id="quest_first_canistra"
 		locForm="0"
-		value="Канистра нефти" />
+		value="Канистра NFT" />
 
 	<Item
 		id="quest_disk_1"
@@ -363,7 +363,7 @@
 	<Item
 		id="someTurboAccelerationPusher"
 		locForm="0"
-		value="Турбо-ускорение" />
+		value="H2O двойной залп" />
 
 	<Item
 		id="engineOilPusher"
@@ -708,7 +708,7 @@
 	<Item
 		id="vector01"
 		locForm="0"
-		value="Вектор" />
+		value="Виктор" />
 
 	<Item
 		id="vulcan01"
@@ -748,7 +748,7 @@
 	<Item
 		id="elephant01"
 		locForm="0"
-		value="Слон" />
+		value="Муха" />
 
 	<Item
 		id="flag01"
@@ -768,7 +768,7 @@
 	<Item
 		id="odin01"
 		locForm="0"
-		value="Один" />
+		value="Два" />
 
 	<Item
 		id="hammer01"
@@ -778,7 +778,7 @@
 	<Item
 		id="bumblebee01"
 		locForm="0"
-		value="Шмель" />
+		value="Шмаль" />
 
 	<Item
 		id="omega01"
@@ -803,7 +803,7 @@
 	<Item
 		id="marsSideGun"
 		locForm="0"
-		value="Марс" />
+		value="Морс" />
 
 	<Item
 		id="minePusher_1"
@@ -1569,7 +1569,7 @@
 	<Item
 		id="boss04"
 		locForm="0"
-		value="База Ньери" />
+		value="Турбаза Ньери" />
 
 	<Item
 		id="boss04drone"
@@ -1634,7 +1634,7 @@
 	<Item
 		id="AxelVehicle"
 		locForm="0"
-		value="Аксель" />
+		value="Баксель" />
 
 	<Item
 		id="FelixVehicle2"
