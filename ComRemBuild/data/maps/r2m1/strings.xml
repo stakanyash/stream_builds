@@ -604,6 +604,11 @@
 		numButtons="1" />
 
 	<string
+		id="889"
+		value="Алина победила."
+		numButtons="1" />
+
+	<string
 		id="8801"
 		value="Вы желаете покинуть эту область?"
 		numButtons="2" />

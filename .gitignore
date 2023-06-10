@@ -1,4 +1,4 @@
-*.txt
 .vscode/
 *.py
 files.yaml
+tips.txt
