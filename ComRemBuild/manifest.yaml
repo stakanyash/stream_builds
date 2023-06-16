@@ -2,24 +2,35 @@
 name: ComRemBuild
 
 # required human readable info
-display_name: Build for Community Remaster
+display_name: Community Disaster
 version: "1.1"
-build: "230610"
+build: "230617"
 description: |
-  Моя персональная сборка для Community Remaster, которую я использую на своих стримах.
+  Пользовательская сборка для Community Remaster. Содержит очень много противоречивых правок и в целом предназначена лишь для периодического прохождения на канале Павлик RPG в рамках традиционных перепрохождений игры.
 authors: pavlikrpg
 
 # optional human readable info
-release_date: 06/01/2023
+release_date: 17/06/2023
 language: ru
 link: https://github.com/zatinu322/stream_builds
+logo: CommunityDisaster.png
+tags: [gameplay, story, visual, sound]
+change_log: change_list_ru.md
+screenshots:
+  - img: screen_1.png
+    text: Новый скин Лисы
+  - img: screen_2.png
+    text: Титры в конце игры
 
 # installation confguration
 prerequisites: 
   - name: community_remaster
     versions:
-      - "1.13"
-    optional_content: []
-patcher_version_requirement: "1.13"
+      - "1.14"
+    optional_content:
+    - hd_gun_models
+    - hd_vehicle_models
+    - ost_remaster
+patcher_version_requirement: "1.14"
 no_base_content: false
 optional_content: []

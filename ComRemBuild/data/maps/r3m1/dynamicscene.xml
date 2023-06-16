@@ -1393,22 +1393,7 @@
 					Flags="16"
 					Prototype="UralForSale"
 					Pos="0.000 351.914 0.000">
-					<Parts>
-						<BASKET
-							present="1"
-							Flags="16"
-							Prototype="uralCargo01" />
-
-						<CABIN
-							present="1"
-							Flags="16"
-							Prototype="uralCab01" />
-
-						<CHASSIS
-							present="1"
-							Flags="16"
-							Prototype="uralChassis" />
-					</Parts>
+					<Parts />
 
 					<Repository />
 				</Item>

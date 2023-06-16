@@ -1,6 +1,27 @@
-# Сборка [Ex Machina Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/) от pavlikrpg
+<div align="center">
+  <h1>Ex Machina Community Disaster</h1>
+  <img src="https://i.imgur.com/Bcn7a8Z.png" alt="ComDisLogo", width="600">
+</div>
 
-### **Список изменений:**
+
+## Содержание
+
+- [Описание](#description_rus)
+- [Список изменений](#changelist_main_rus)
+- [Скачать](#download_rus)
+- [Установка](#installation_rus)
+- [Контакты автора](#contacts_rus)
+
+<a id="description_rus"></a>
+
+## Описание
+
+`Ex Machina Community Disaster` - пользовательская сборка для [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/) от `pavlikrpg`. Содержит очень много противоречивых правок и в целом предназначена лишь для периодического прохождения на канале [Павлик RPG](https://www.youtube.com/@pavlikrpg) в рамках традиционных перепрохождений игры.
+
+<a id="changelist_main_rus"></a>
+
+## Список изменений
+
 + Добавлена сложность Профессионал+.
 + Изменены некоторые фразы ГГ на выкрики Д. Филимонова из игры `The Mark: Неотвратимая угроза`. (Спасибо `Z-120 Virus` за их предоставление)
 + Улучшения некоторых фраз в катсценах от `Gnome627`
@@ -14,7 +35,7 @@
 + Добавлена улучшенная версия музыки bar.ogg.
 + Изменён эффект взрыва бочек и их модель.
 + Улучшены текстуры Лисы.
-+ Изменён логотип игрока на логотип канала [Павлик RPG](https://www.youtube.com/channel/UCn4cTYbkGki7getrE5sZabw).
++ Изменён логотип игрока на логотип канала [Павлик RPG](https://www.youtube.com/@pavlikrpg).
 + Добавлена иконка монастыря из мода `EM-Monastery Icons Mod` от `PlayBoy`
 + В диалогах с NPC деньги игрока теперь отображаются фиолетовым цветом.
 + Изменены некоторые игровые названия.
@@ -24,24 +45,55 @@
 + Теперь Лиса всегда едет с нами к Оракулу, даже если в начале игры мы отказали ей в показе деревень.
 + Добавлена возможность сразиться с боссом-краном в Либриуме по ветке с отказом Лисе.
 + Количество кругов в гонке в Вахате уменьшено до одного.
-+ В катсцену после уничтожения тарелки Ньери добавлены финальные титры. После катсцены добавлено оповещение о 100% завершении игры. После этого оповещения добавлена отссылка к моду `Vanilla Edition`.
++ В катсцену после уничтожения тарелки Ньери добавлены финальные титры. После катсцены добавлено оповещение о 100% завершении игры. После этого оповещения добавлена отсылка к моду `Vanilla Edition`.
+
+<a id="download_rus"></a>
+
+## Скачать 
+
+<!-- * [Community Disaster v1.1 для Community Remaster v1.14]() [RUS] -->
+* [Community Disaster v1.0 для Community Remaster v1.13](https://github.com/zatinu322/stream_builds/releases/tag/v1.0-cr) [RUS]
+
+<a id="installation_rus"></a>
+
+## Установка
+
+* ### На Community Remaster v1.14
+
+1. Скачайте [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/) и распакуйте архив в удобное для вас место, поместите папку `ComRemBuilds` из скачанного отсюда архива в папку `mods`.
+2. Запустите `DEM Community Mod Manager 2.0` (`commod.exe`) и настройте рабочую среду:
+    + Укажите вашу папку с игрой и папку, где хранятся моды и Community Remaster (из п.1)
+    + Перейдите во вкладку "Моды", установите сначала Community Remaster, а потом Community Disaster.
+3. Приятной игры.
 
 ***
 
-### **Скачать:** https://github.com/zatinu322/stream_builds/releases/tag/v1.0-cr
+* ### На Community Remaster v1.13 (устарело)
 
-***
+  + ### **Установка на чистую игру:**
+    1. Создать в корневой папке с игрой папку `mods`, скопировать туда папку `ComRemBuild` со всем её содержимым.
+    2. Установить [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases/) со всеми опциями. После завершения установки, вам будет предложено установить эту сборку.
+    3. Следовать инструкциям установщика.
 
-### **Установка на чистую игру:**
-1. Создать в корневой папке с игрой папку `mods`, скопировать туда папку `ComRemBuild` со всем её содержимым.
-2. Установить [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases/) со всеми опциями. После завершения установки, вам будет предложено установить эту сборку.
-3. Следовать инструкциям установщика.
+  + ### **Установка на уже установленный [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/)**:
 
-***
+    1. Создать в корневой папке с игрой папку `mods`, скопировать туда папку `ComRemBuild` со всем её содержимым.
+    2. Запустить `commod.exe`, ввести команду `mods`.
+    3. Следовать инструкциям установщика.
 
-### **Установка на уже установленный [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases/)**:
-1. Создать в корневой папке с игрой папку `mods`, скопировать туда папку `ComRemBuild` со всем её содержимым.
-2. Запустить `commod.exe`, ввести команду `mods`.
-3. Следовать инструкциям установщика.
+<a id="contacts_rus"></a>
 
-***
+## Контакты автора
+
+<div align="left">
+  <a href="https://discord.gg/sPrGBP9aFd">
+    <img src="https://i.imgur.com/1p7N4lm.png" alt="Discord" height="55">
+  </a>
+  <a href="https://www.youtube.com/user/rpggameland">
+    <img src="https://i.imgur.com/eZj65ig.png" alt="YT" height="55">
+  </a>
+  <a href="https://vk.com/id316894646">
+    <img src="https://i.imgur.com/4lcRJSW.png" alt="VK" height="55">
+</a>
+
+</div>
