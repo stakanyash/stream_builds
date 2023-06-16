@@ -14,7 +14,7 @@ release_date: 17/06/2023
 language: ru
 link: https://github.com/zatinu322/stream_builds
 logo: CommunityDisaster.png
-tags: [gameplay, story, visual, sound]
+tags: [gameplay, story, visual]
 change_log: change_list_ru.md
 screenshots:
   - img: screen_1.png

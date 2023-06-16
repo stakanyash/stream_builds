@@ -51,35 +51,15 @@
 
 ## Скачать 
 
-<!-- * [Community Disaster v1.1 для Community Remaster v1.14]() [RUS] -->
+* [Community Disaster v1.1 для Community Remaster v1.14]() [RUS]
 * [Community Disaster v1.0 для Community Remaster v1.13](https://github.com/zatinu322/stream_builds/releases/tag/v1.0-cr) [RUS]
 
 <a id="installation_rus"></a>
 
 ## Установка
 
-* ### На Community Remaster v1.14
-
-1. Скачайте [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/) и распакуйте архив в удобное для вас место, поместите папку `ComRemBuilds` из скачанного отсюда архива в папку `mods`.
-2. Запустите `DEM Community Mod Manager 2.0` (`commod.exe`) и настройте рабочую среду:
-    + Укажите вашу папку с игрой и папку, где хранятся моды и Community Remaster (из п.1)
-    + Перейдите во вкладку "Моды", установите сначала Community Remaster, а потом Community Disaster.
-3. Приятной игры.
-
-***
-
-* ### На Community Remaster v1.13 (устарело)
-
-  + ### **Установка на чистую игру:**
-    1. Создать в корневой папке с игрой папку `mods`, скопировать туда папку `ComRemBuild` со всем её содержимым.
-    2. Установить [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases/) со всеми опциями. После завершения установки, вам будет предложено установить эту сборку.
-    3. Следовать инструкциям установщика.
-
-  + ### **Установка на уже установленный [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/)**:
-
-    1. Создать в корневой папке с игрой папку `mods`, скопировать туда папку `ComRemBuild` со всем её содержимым.
-    2. Запустить `commod.exe`, ввести команду `mods`.
-    3. Следовать инструкциям установщика.
++ ### [Установка на Community Remaster v1.14](https://github.com/zatinu322/stream_builds/wiki/Installation-Guide-for-Community-Remaster-v1.14)
++ ### [Установка на Community Remaster v1.13](https://github.com/zatinu322/stream_builds/wiki/Installation-Guide-for-Community-Remaster-v1.13)
 
 <a id="contacts_rus"></a>
 
