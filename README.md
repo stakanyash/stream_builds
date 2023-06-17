@@ -51,7 +51,7 @@
 
 ## Скачать 
 
-* [Community Disaster v1.1 для Community Remaster v1.14]() [RUS]
+* [Community Disaster v1.1 для Community Remaster v1.14](https://github.com/zatinu322/stream_builds/releases/tag/v1.1-cr) [RUS]
 * [Community Disaster v1.0 для Community Remaster v1.13](https://github.com/zatinu322/stream_builds/releases/tag/v1.0-cr) [RUS]
 
 <a id="installation_rus"></a>
