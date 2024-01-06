@@ -29,7 +29,7 @@
 + Количество зарядов для турбо-ускорения увеличено до 52.
 + Система Sagitta теперь увеличивает не конструкцию, а мощность автомобиля. Изменено её описание.
 + Полностью убран Белаз из продажи. Изменено его описание.
-+ Обновлён клаксон у Урала.
++ Обновлён клаксон у Урала. (Спасибо `Gnome627`)
 + Кабине Витязь добавлен ещё один слот под гаджеты для авто (1x1).
 + Кабине Фантом добавлены два слота под гаджеты для авто (1x1).
 + Кузову Экскалибур добавлен слот под специальное оружие (2x1).
@@ -52,6 +52,7 @@
 
 ## Скачать 
 
+* [Community Disaster v1.2 для Community Remaster v1.14](https://github.com/zatinu322/stream_builds/releases/tag/v1.2-cr) [RUS]
 * [Community Disaster v1.1 для Community Remaster v1.14](https://github.com/zatinu322/stream_builds/releases/tag/v1.1-cr) [RUS]
 * [Community Disaster v1.0 для Community Remaster v1.13](https://github.com/zatinu322/stream_builds/releases/tag/v1.0-cr) [RUS]
 
@@ -60,7 +61,7 @@
 ## Установка
 
 + ### [Установка на Community Remaster v1.14](https://github.com/zatinu322/stream_builds/wiki/Installation-Guide-for-Community-Remaster-v1.14)
-+ ### [Установка на Community Remaster v1.13](https://github.com/zatinu322/stream_builds/wiki/Installation-Guide-for-Community-Remaster-v1.13)
++ ### [Установка на Community Remaster v1.13 и ниже](https://github.com/zatinu322/stream_builds/wiki/Installation-Guide-for-Community-Remaster-v1.13)
 
 <a id="contacts_rus"></a>
 
