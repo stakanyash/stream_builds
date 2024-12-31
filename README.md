@@ -70,7 +70,7 @@ _Ex Machina Community Disaster_ - пользовательская сборка 
   * [Community Disaster v1.2.1](https://github.com/zatinu322/stream_builds/releases/tag/v1.2.1-cr) [RUS]
 
 <details>
-<summary><h3>Предыдущие версии<h3></summary>
+<summary><h4>Предыдущие версии</h4></summary>
 
 * ### Для Community Remaster v1.14
 
@@ -87,7 +87,40 @@ _Ex Machina Community Disaster_ - пользовательская сборка 
 
 # Установка
 
-### Процесс установки подробно описан [тут](https://github.com/zatinu322/stream_builds/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0).
+### Через DEM Community Mod Manager (v1.14 и выше)
+
+<details>
+<summary><strong>Описание установки</strong></summary>
+<br>
+
+1. Установить `Community Patch` или `Community Remaster со всеми дополнительными опциями` по инструкции с [этой](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/blob/main/README.md) страницы.
+2. В `DEM Community Mod Manager` на вкладке `Моды` нажмите `Добавить мод` и укажите архив, который вы скачали [отсюда](https://github.com/zatinu322/stream_builds#download_rus).
+3. После его появления в списке модов нажмите `Распаковать`.
+4. После распаковки нажмите `Установить` и следуйте инструкциям мод-менеджера.
+
+</details>
+
+### На старые версии Community Patch/Remaster (v1.13 и ниже)
+
+<details>
+<summary><strong>Описание установки</strong></summary>
+<br>
+
+* <strong>1 способ (на чистую <em>русскую версию игры из Steam</em>)</strong>
+  <ol type="1">
+  <li>Создать в корневой папке с игрой папку <strong>mods</strong>, скопировать туда папку <strong>ComRemBuilds</strong> со всем её содержимым.</li>
+  <li>Установить <strong>Community Patch</strong> или <strong>Community Remaster со всеми дополнительными опциями</strong> по <a href='https://github.com/DeusExMachinaTeam/EM-CommunityPatch/blob/0c559423c7139c8a9c7915e390cd47d15438c0b7/README.md'>этой</a> инструкции. После завершения установки, вам будет предложено установить обнаруженные моды.</li>
+  <li>Следовать инструкциям установщика.</li>
+  </ol>
+
+* <strong>2 способ (на уже установленный <a href="https://github.com/DeusExMachinaTeam/EM-CommunityPatch/">Community Patch/Remaster</a>)</strong>
+  <ol type="1">
+    <li>Создать в корневой папке с игрой папку <strong>mods</strong>, скопировать туда папку <strong>ComRemBuilds</strong> со всем её содержимым.</li>
+    <li>Запустить <strong>commod.exe</strong>, ввести команду <strong>mods</strong>.</li>
+    <li>Следовать инструкциям установщика.</li>
+  </ol>
+
+</details>
 
 <a id="other_mods_rus"></a>
 
