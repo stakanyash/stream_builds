@@ -3,14 +3,14 @@ name: ComRemBuild
 
 # required human readable info
 display_name: Community Disaster
-version: "1.2"
-build: "230617"
+version: "1.2.1"
+build: "241231a"
 description: |
   Пользовательская сборка для Community Remaster. Содержит очень много противоречивых правок и в целом предназначена лишь для периодического прохождения на канале Павлик RPG в рамках традиционных перепрохождений игры.
 authors: pavlikrpg
 
 # optional human readable info
-release_date: 06/01/2024
+release_date: 31/12/2024
 language: ru
 link: https://github.com/zatinu322/stream_builds
 logo: CommunityDisaster.png
@@ -26,11 +26,11 @@ screenshots:
 prerequisites: 
   - name: community_remaster
     versions:
-      - "1.14"
+      - "1.14.1"
     optional_content:
     - hd_gun_models
     - hd_vehicle_models
     - ost_remaster
-patcher_version_requirement: "2.0.12"
+patcher_version_requirement: "2.2"
 no_base_content: false
 optional_content: []
