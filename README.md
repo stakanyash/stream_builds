@@ -11,7 +11,7 @@
     <a href="https://forum.deuswiki.com">
         <img src="https://github.com/zatinu322/Var-Mod-Trash-Machina/assets/68562524/3d63e8f9-653c-4b4d-8ad2-6aa2d079fd2e", width="50", height="50", alt="Community Forum">
     </a><br/><br/>
-    <a href="https://github.com/zatinu322/ImprovedStoryline/releases/tag/v1.2.1-build241222a">
+    <a href="https://github.com/zatinu322/stream_builds/releases/tag/v1.2.1-cr">
         <img src="https://img.shields.io/badge/Community_Disaster-v1.2.1-0c7307" alt="Latest release"/>
     </a><br/>
     <a href="https://github.com/DeusExMachinaTeam/EM-CommunityPatch">
@@ -20,39 +20,6 @@
     <img src="https://img.shields.io/badge/Release_date-31/12/2024-0c7307" alt="Release date"/>
     
   </p>
-
-
-
-<!-- <table>
-  <thead>
-    <tr>
-      <th style="text-align: center;">Содержание</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <td><a href="#description_rus">Описание</a></td>
-    </tr>
-    <tr>
-      <td><a href="#changelist_rus">Список изменений</a></td>
-    </tr>
-    <tr>
-      <td><a href="#download_rus">Скачать</a></td>
-    </tr>
-    <tr>
-      <td><a href="#installation_rus">Установка</a></td>
-    </tr>
-    <tr>
-      <td><a href="#previous_versions_rus">Предыдущие версии</a></td>
-    </tr>
-    <tr>
-      <td><a href="#other_mods_rus">Мои другие проекты</a></td>
-    </tr>
-    <tr>
-      <td><a href="#licensing_rus">Лицензирование</a></td>
-    </tr>
-  </tbody>
-</table> -->
 
 ***
 
@@ -100,7 +67,7 @@ _Ex Machina Community Disaster_ - пользовательская сборка 
 
 # Скачать 
 * ### Для Community Remaster v1.14.1
-  * [Community Disaster v1.2.1]() [RUS]
+  * [Community Disaster v1.2.1](https://github.com/zatinu322/stream_builds/releases/tag/v1.2.1-cr) [RUS]
 
 <details>
 <summary><h3>Предыдущие версии<h3></summary>
