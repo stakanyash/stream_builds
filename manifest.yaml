@@ -13,7 +13,7 @@ authors: pavlikrpg
 release_date: 31/12/2024
 language: ru
 link: https://github.com/zatinu322/stream_builds
-logo: CommunityDisaster.png
+logo: assets/CommunityDisaster.png
 tags: [gameplay, story, visual]
 change_log: change_list_ru.md
 screenshots:
