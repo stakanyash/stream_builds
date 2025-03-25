@@ -492,8 +492,8 @@
 
 			local explayercar = getObj("PlayerCarGonki")
 			if explayercar then
-				explayercar:SetGamePositionOnGround(CVector(4410.569, 281.094, 2051.014))
-				explayercar:SetRotation(Quaternion(0.003, 0.571, 0.001, 0.821))
+				explayercar:SetGamePositionOnGround(CVector(4422.050, 280.216, 2025.034))
+				explayercar:SetRotation(Quaternion(-0.001, -0.703, -0.000, -0.711))
 				explayercar:SetCustomControlEnabled( true )
 				explayercar:SetCustomLinearVelocity( 0 )
 				explayercar:SetThrottle( 0 )
@@ -1045,8 +1045,8 @@
 			GetPlayerVehicle():SetThrottle( 0 )
 			GetPlayerVehicle():SetCustomLinearVelocity( 0 )
 
-			setPos(GetPlayerVehicle(),CVector(getPos("PlayerCarOnRacePos_loc")))
-			setRot(GetPlayerVehicle(),Quaternion(0.001, 0.571, 0.000, 0.821))
+			setPos(GetPlayerVehicle(),CVector(4422.050, 280.216, 2025.034))
+			setRot(GetPlayerVehicle(),Quaternion(-0.001, -0.703, -0.000, -0.711))
 			trigger:Deactivate()
 		</script>
 	</trigger>
