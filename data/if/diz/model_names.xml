@@ -638,7 +638,7 @@
 	<Item
 		id="MirotvorecForSale"
 		locForm="0"
-		value="Миротворец" />
+		value="Бебротворец" />
 
 	<Item
 		id="sml1Cab01"
@@ -1008,7 +1008,7 @@
 	<Item
 		id="Mirotvorec01"
 		locForm="0"
-		value="Миротворец" />
+		value="Бебротворец" />
 
 	<Item
 		id="ArcadeBelaz"
@@ -1103,17 +1103,17 @@
 	<Item
 		id="DemoMirotvorec1"
 		locForm="0"
-		value="Миротворец" />
+		value="Бебротворец" />
 
 	<Item
 		id="DemoMirotvorec2"
 		locForm="0"
-		value="Миротворец" />
+		value="Бебротворец" />
 
 	<Item
 		id="DemoMirotvorec3"
 		locForm="0"
-		value="Миротворец" />
+		value="Бебротворец" />
 
 	<Item
 		id="Revolutioner1"
@@ -1178,12 +1178,12 @@
 	<Item
 		id="mirotvorecTest"
 		locForm="0"
-		value="Миротворец" />
+		value="Бебротворец" />
 
 	<Item
 		id="mirotvorecTest1"
 		locForm="0"
-		value="Миротворец" />
+		value="Бебротворец" />
 
 	<Item
 		id="BugTest1"
@@ -1228,7 +1228,7 @@
 	<Item
 		id="MirotvorecShot"
 		locForm="0"
-		value="Миротворец" />
+		value="Бебротворец" />
 
 	<Item
 		id="Formula01"
