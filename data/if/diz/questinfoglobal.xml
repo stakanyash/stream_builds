@@ -1728,7 +1728,7 @@
 	<QuestInfo
 		questName="r1m3_DestroyRadiationSource"
 		briefDiz="Устранить источник помех"
-		fullDiz="Электростанция в городе Сель является источником помех. Я должен найти способ вырубить её хотя бы на несколько минут."
+		fullDiz="Электростанция в городе Всталь является источником помех. Я должен найти способ вырубить её хотя бы на несколько минут."
 		isMainQuest="1">
 		<Map
 			name="r1m3"
@@ -1959,6 +1959,9 @@
 		<Map
 			name="r2m1"
 			targetObjName="ALIENSLoc" />
+		<Map
+			name="r2m1_bossfight"
+			targetObjName="ALIENSLoc" />
 	</QuestInfo>
 
 	<QuestInfo
@@ -2127,7 +2130,7 @@
 
 	<QuestInfo
 		questName="r2m2_FindLisAfterAxelAndFatherDie_Quest"
-		briefDiz="Искать Лису в городе Сель"
+		briefDiz="Искать Лису в городе Всталь"
 		fullDiz="Баксель поклялся, что не причастен к смерти отца. Я пожил немного среди этих людей и теперь склонен верить ему. Значит, нужно найти Лису и заставить ее рассказать мне правду."
 		isMainQuest="1">
 		<Map

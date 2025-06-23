@@ -838,26 +838,6 @@
 		</script>
 	</trigger>
 
-
-
-
-
-	<trigger Name="TRIGGER_ALIENSDIE" active="0">
-		<event eventid="GE_OBJECT_DIE" ObjName="AliensShip" />
-		<script>
-			TActivate( "RolikBegin_UFODIE" )
-
-			CompleteQuest( "r2m1_DestroyAlienShip" )
-			CompleteQuest( "r4m2_DestroyPlate" )
-
-			trigger:Deactivate()
-		</script>
-	</trigger>
-
-
-
-
-
 	<trigger Name="Trigger_Antipod" active="0">
 		<event timeout="0" eventid="GE_TIME_PERIOD" />
 		<script>
@@ -1239,22 +1219,6 @@
 			TDeactivate( "RolikExitToMap31" )
 
 			SetCameraBehindPlayerVehicle()
-
-			trigger:Deactivate()
-		</script>
-	</trigger>
-
-	<trigger Name="trTotalGameCount" active="0">
-		<event	timeout="0.01"		eventid="GE_TIME_PERIOD" />
-		<script>
-
-			if CountPlayerProgress()==33 then
-				SpawnMessageBox( "888" )
-			end
-
-			SpawnMessageBox( "889" )
-
-			ShowDeathMenu()
 
 			trigger:Deactivate()
 		</script>
