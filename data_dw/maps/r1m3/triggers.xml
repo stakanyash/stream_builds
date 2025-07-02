@@ -1579,4 +1579,19 @@
 			trigger:Deactivate()
 		</script>
 	</trigger>
+
+	<trigger Name="triggerStartPlayingCemeteryMusic" active="1">
+		<event eventid="GE_OBJECT_ENTERS_LOCATION" ObjName="CemeteryAmbient_loc" />
+		<script>
+			PlayCustomMusic("Sadness1")
+ 		</script>
+	</trigger>
+
+	<trigger Name="triggerStopPlayingCemeteryMusic" active="1">
+		<event eventid="GE_OBJECT_LEAVES_LOCATION" ObjName="CemeteryAmbient_loc" />
+		<script>
+			StopPlayingCustomMusic()
+ 		</script>
+	</trigger>
+
 </triggers>
