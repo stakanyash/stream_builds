@@ -1406,6 +1406,7 @@
 			getObj("AliensShipStation3"):SetPosition(CVector(1362.245, 480.637, 1803.102))
 
 			RuleConsole("g_postEffect cinematicEnd")
+			UpdateWeather()
 
 			TDeactivate("RolikBegin_LightOff")
 			TDeactivate("trUFO_cam03")
